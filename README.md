@@ -1,0 +1,2 @@
+# myPython
+little python commands
