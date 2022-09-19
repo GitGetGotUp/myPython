@@ -1,0 +1,74 @@
+type integer: int()
+
+False (=0)
+
+await (await asyncio.sleep(seconds))
+
+else 	
+
+import (import library)
+
+pass
+
+
+None (no data value)
+
+break (break out of loop)
+
+except 
+
+in (for i in range(x,y), 
+
+raise
+
+True (=1)
+
+class 
+
+finally 
+
+is 
+
+return
+
+and 
+
+continue 
+
+for 
+
+lambda 
+
+try
+
+
+as 
+
+def 
+
+from 
+
+nonlocal 
+
+while
+
+assert 
+
+del 	
+
+global
+
+not 	
+
+with
+
+
+async 
+
+elif 	
+
+if 	
+
+or 	
+
+yield
