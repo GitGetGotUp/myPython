@@ -1,0 +1,55 @@
+IF:
+
+if test expression:
+    statement(s)
+    
+if test expression is True then statements are executed. Otherwise not. 
+Intendation is a start and non intendetion is the end. 
+
+IF...ELSE:
+
+if test expression:
+    Body of if
+else:
+    Body of else
+    
+For True if is executed and for False else is executed. 
+
+IF...ElIF...ELSE:
+
+if test expression:
+    Body of if
+elif test expression:
+    Body of elif
+else: 
+    Body of else
+    
+    
+If True then body executed.
+If False then Elif tested, True executed, False goes to else. 
+Can have many elif. 
+
+Nesting: 
+num = float(input("Enter a number: "))
+if num >= 0:
+    if num == 0:
+        print("Zero")
+    else:
+        print("Positive number")
+else:
+    print("Negative number")
+    
+    
+if expression
+  if expression2
+    statement 2
+   else: 
+  else: 
+    statement2
+else: 
+  statement
+  
+  
+For Loop:
+
+    
