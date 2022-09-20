@@ -52,4 +52,37 @@ else:
   
 For Loop:
 
+sequences = [1,1,2,4,1] (collection of items in ordered matter, starting from 0)
+
+iterate over characters: 
+text = "Niklas"
+for character in text: 
+    print(character)
+    
+general:
+for item in sequence:
+    statement(s)
+    
+for item in sequence:
+    statement
+else:
+    statement(s)
+    
+while loop:
+
+count = 1
+while count <= 5:
+    print(count)
+    count = count + 1 (or count += 1)
+    
+general:
+while test_condition (boolean):
+    statement while true
+    
+using range:
+for count in range(1,6):
+    print(range)
+    
+
+
     
