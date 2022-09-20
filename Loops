@@ -111,6 +111,14 @@ for i in range(5):
     print(number)
 
 
+pass Statement: loop on decision making statement, but unsure what body will be:
+
+number = 5
+if number > 0.0:
+    pass
+    
+(not executed, like comment but inside a loop)
+
 
 
 
