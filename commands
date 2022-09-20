@@ -10,7 +10,6 @@ import (import library)
 
 pass
 
-
 None (no data value)
 
 break (break out of loop)
@@ -41,7 +40,6 @@ lambda
 
 try
 
-
 as 
 
 def 
@@ -62,7 +60,6 @@ not
 
 with
 
-
 async 
 
 elif 	
@@ -72,3 +69,30 @@ if
 or 	
 
 yield
+
+print strings: print('') or print("")
+
+integer: whole number
+
+float: decimal number
+
+store data: variable = something
+
+which class: type()
+
+to check if object belongs to class: isinstance(object, class)
+
+list: list = [1, "keke"]
+
+access from list, starting at 0: list[0] 
+
+dictionary: d = {"key": value}
+
+
+
+type conversion: 
+
+integer to float: 
+
+
+
