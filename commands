@@ -140,6 +140,16 @@ Membership operators:
 True if in sequence: in
 True if not in sequence: not in
 
+create a function: 
+def name_function():
+  function()
+  
+name_function() -> executes function
+a = name_function
+a() -> executes function
+
+
+
 
 
 
