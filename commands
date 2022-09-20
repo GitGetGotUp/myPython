@@ -70,7 +70,15 @@ or
 
 yield
 
+
+general print syntax: print(objects_to_be_printed, sep = " ", end = '\n', file = sys.stdout, flush = False)
 print strings: print('') or print("")
+
+formatting the print: 
+x = Halfar, y = Immanual
+str.format(): print('I am Niklas {} and {}'.format(x,y)) (or use indexing in brackets from a list in .format()
+
+input: input([promt])
 
 integer: whole number
 
@@ -90,9 +98,52 @@ dictionary: d = {"key": value}
 
 
 
-type conversion: 
+type conversion: int(), float(), str()
 
-integer to float: 
+integer to float: int + float gives float number
+
+Explicit type conversion: 
+required_datatype(expression)
+
+
+arithmetic operators: 
++, -, /, *, %, //, **
+
+comparison operators: 
+<,>,==, !=, >=, <=
+
+logical operators: 
+and, or, not
+
+Bitwise operators: 
+&, |, ~, ^, <<, >>
+
+assignment operators: 
+x = 5: x = 5
+
+x += 5: x = x+5
+
+x-=5: x = x-5
+
+x *=5: x = x*5
+
+x /=5: x = x/5
+
+generally: 
+x [operator]number: x = x [operator] number
+
+identity operators: 
+True if identical: is
+True if not identrical: is not
+
+Membership operators: 
+True if in sequence: in
+True if not in sequence: not in
+
+
+
+
+
 
 
 
