@@ -1,0 +1,9 @@
+current folder: pwd
+
+list contents of current file: ls
+
+change directory to different folder if folder is subfolder of current folder: cd
+
+move up to parents folder: cd..
+
+get python version: python --version
