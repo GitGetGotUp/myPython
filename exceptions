@@ -93,6 +93,23 @@ manually raise exception:
 ???
 
 
+try with else clause: run code inside try if no errors, if error give except, of no error do something:
+try: 
+  statement
+except: 
+  do this instead if error
+else: 
+  if no error run this
+  
+  
+the finally clause:
+try: 
+  statement(s)
+finally: 
+   executed no matter what
+   
+   
+
 
 
 
