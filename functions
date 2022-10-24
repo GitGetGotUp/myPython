@@ -1,0 +1,14 @@
+#add something to list
+object.append(x)
+
+#extend a list:
+object.extend(x)
+
+#show encoding:
+object.pop
+
+#upper and lower case
+object.upper()
+object.lower()
+object.capitalised()
+
